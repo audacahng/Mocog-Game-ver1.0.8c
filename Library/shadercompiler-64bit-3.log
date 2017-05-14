@@ -1,0 +1,18 @@
+Base path: /Applications/Unity/Unity.app/Contents
+Pipe name: \\.\pipe\UnityShaderCompiler-64bit-3-16154624
+Cmd: getPlatforms
+Cmd: compileSnippet
+  error: 2 plat 9 at (25): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program with DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON
+Platform defines: UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE
+  api=9 type=0 insize=6698 outsize=0 kw=DIRECTIONAL SHADOWS_SCREEN SHADOWS_NATIVE LIGHTMAP_OFF DIRLIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (25): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program with DIRECTIONAL
+Platform defines: UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE
+  api=9 type=0 insize=3750 outsize=0 kw=DIRECTIONAL pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=0
+Cmd: compileSnippet
+  error: 2 plat 9 at (25): incorrect number of arguments to numeric-type constructor\nCompiling Vertex program with DIRECTIONAL_COOKIE
+Platform defines: UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE
+  api=9 type=0 insize=3750 outsize=0 kw=DIRECTIONAL_COOKIE pd=UNITY_NO_DXT5nm UNITY_NO_RGBM UNITY_NO_SCREENSPACE_SHADOWS UNITY_NO_LINEAR_COLORSPACE ok=0
+End of pipe
+
+Quitting shader compiler process

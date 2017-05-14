@@ -1,0 +1,4 @@
+@startuml
+participant Bob [[http://www.yahoo.com]]
+Bob -> Alice : [[http://www.google.com]] hello
+@enduml
